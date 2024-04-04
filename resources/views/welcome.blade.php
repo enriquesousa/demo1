@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Demo1 - Laravel</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -1884,6 +1884,10 @@
                             alt="" />
 
 
+                    </div>
+
+                    <div class="text-center">
+                        <p class="text-blue-600">Demo 1 - Con Auth Breeze</p>
                     </div>
 
                     @if (Route::has('login'))
